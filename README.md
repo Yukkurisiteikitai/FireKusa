@@ -1,2 +1,7 @@
 # FireKusa
 FireKusaというクソゲーのunityprojectファイルです。中身の3dモデルは自作です。このprojectはご自由に使用してもらっても大丈夫です。ですが、そのせいで生じた責任はYukkurisiteikitai(製作者)は一切負いません。自己責任でご使用ください。
+
+\n
+UnityHubにダウンロードしたgitfileを選択して起動すればProjectが立ち上がります
+参考記事
+https://discord.com/channels/1115137369205641277/1115137369721552949/1277465236357775433
