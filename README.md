@@ -1,0 +1,2 @@
+# FireKusa
+FireKusaというクソゲーのunityprojectファイルです。中身の3dモデルは自作です。このprojectはご自由に使用してもらっても大丈夫です。ですが、そのせいで生じた責任はYukkurisiteikitai(製作者)は一切負いません。自己責任でご使用ください。
